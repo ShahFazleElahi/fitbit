@@ -1,0 +1,20 @@
+# FitBite Application
+
+![FitBite Cover Image](cover.png)
+
+## Introduction
+
+FitBite is a user-friendly web application designed to help users track their nutrition and fitness goals. With a sleek interface built using HTML and CSS, FitBite allows users to log their meals, monitor their calorie intake, and stay motivated on their fitness journey.
+
+## Features
+
+- **Meal Logging**: Users can easily log their meals and track their calorie intake.
+- **Nutrition Information**: Access to a comprehensive database of nutritional information.
+- **Fitness Tracking**: Track workouts and monitor progress toward fitness goals.
+- **Responsive Design**: The application is fully responsive and works seamlessly on various devices.
+
+## Technologies Used
+
+- HTML
+- CSS
+- Visual Studio Code
